@@ -1,7 +1,7 @@
 # Real-time-Mern--Chat-App
 
-.ENV : PORT 
-       MONGO_URI 
+.ENV : PORT ,
+       MONGO_URI ,
        JWT_SECRET
 
 ![Login](https://github.com/user-attachments/assets/b33881fc-fbc4-4d4c-86ad-bd7b5f3f5032)
